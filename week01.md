@@ -1,4 +1,4 @@
-## Week 01 - Knowledge Summary
+## Week 01 - Summary
 
 ### Current knowledge
 
@@ -28,8 +28,7 @@ Cloud computing is defined as the use of hosted services, such as data storage, 
 - Provide virtual machines in AWS cloud for application hosting.
 
 ### Educational sources
-These skills were acquired through my IT degree, especially in these disciplines.
-- Network initialization
-- Internet technology
 - Cyber ​​Security Basics
 - cloud computing and virtualization
+-  Network initialization
+- Internet technology
