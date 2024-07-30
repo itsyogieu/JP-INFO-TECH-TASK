@@ -21,7 +21,7 @@ about new cyber security challenges
 #### Cloud Computing
 Cloud computing is defined as the use of hosted services, such as data storage, servers, databases, networking, and software over the internet. I have practical experienced with AWS and also other cloud computing platforms. I configured my virtual machines, managed cloud storage process, and deployed applications on AWS for cloud computing.
 
-### Equipment and technology
+### Technology and Equipment 
 - Configuring a Cisco router for network routing.
 - Set up a wireless access point (AP) in the home for Wi-Fi connection.
 - Used Linux to find IP addresses and fix network configuration.
