@@ -19,7 +19,7 @@ increasingly moving critical IT infrastructure-related data to the cloud, which 
 about new cyber security challenges
 
 #### Cloud Computing
-I have practical experienced with AWS and also other cloud computing platforms. I configured my virtual machines, managed cloud storage process, and deployed applications on AWS for cloud computing.
+Cloud computing is defined as the use of hosted services, such as data storage, servers, databases, networking, and software over the internet. I have practical experienced with AWS and also other cloud computing platforms. I configured my virtual machines, managed cloud storage process, and deployed applications on AWS for cloud computing.
 
 ### Equipment and technology
 - Configuring a Cisco router for network routing.
